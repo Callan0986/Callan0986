@@ -1,0 +1,5 @@
+- 👋 Hi, I’m  Callan
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning Node.js to make a discord bot
+- 💞️ I’m looking to collaborate on code and minecraft servers
+- 📫 How to reach me at https://discord.gg/kqExfuSnyt and message hm ok or callan4203@gmail.com
